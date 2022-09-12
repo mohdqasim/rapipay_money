@@ -1,4 +1,4 @@
-package com.rapipay.money.navigation
+package com.rapipay.weather.navigation
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.runtime.Composable
@@ -7,7 +7,7 @@ import androidx.navigation.NavGraphBuilder
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.rapipay.money.navigation.Routes.W_HOME_SCREEN
+import com.rapipay.weather.navigation.Routes.W_HOME_SCREEN
 import com.rapipay.weather.home_screen.WHomeScreen
 import com.rapipay.weather.home_screen.WHomeViewModel
 

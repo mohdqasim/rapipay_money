@@ -1,7 +1,7 @@
-package com.rapipay.money.di
+package com.rapipay.weather.di
 
-import com.rapipay.money.BuildConfig
 import com.rapipay.weather.AppDispatchers
+import com.rapipay.weather.BuildConfig
 import com.rapipay.weather.data.network.api.WeatherApiService
 
 import dagger.Module
